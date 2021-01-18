@@ -1,6 +1,6 @@
-### Hey there, handsome.
+### Hey there, handsome 🖐
 
-- My name is Satchel Jeong and I live in South Korea.  
+My name is Satchel Jeong and I live in South Korea.  
 I'm mainly interested in web development and my goal is to become a full-stack developer.  
 I'm currently learning React.js and GraphQL.  
 
