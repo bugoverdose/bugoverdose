@@ -1,8 +1,10 @@
 ### Hey there, handsome 🖐
 
-My name is Satchel Jeong and I live in South Korea.  
+My name is Satchel and I live in South Korea.  
 I'm mainly interested in web development and my goal is to become a full-stack developer.  
-I'm currently learning React.js and GraphQL.  
+
+- 🌱 I’m currently learning React.js and GraphQL.
+- 🛒 I'm interested in GO and ASP.NET.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&hide=stars,prs,issues&count_private=true&show_icons=true)
 
