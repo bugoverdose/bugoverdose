@@ -1,12 +1,14 @@
-### Hey there, handsome 🖐
+### Hey there 🖐
 
-My name is Satchel and I live in South Korea.  
+My name is Satchel and I'm an university student in South Korea.  
 I'm mainly interested in web development and my goal is to become a full-stack developer.  
 
-- 🌱 I’m currently learning React.js and GraphQL.
-- 🛒 I'm interested in GO and ASP.NET.
+- 🌱 I’m currently learning React.js & Nest.js.
+- 🤔 I prefer backend to frontend.
+- 😐 I have zero interest in designing. 
+- 🛒 I'm also thinking about learning GO and/or ASP.NET someday.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&hide=stars,prs,issues&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true)
 
 <!--
 **bugoverdose/bugoverdose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
