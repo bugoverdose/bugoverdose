@@ -1,20 +1,20 @@
 ### Hey there 🖐
 
-My name is Satchel and I'm an university student in South Korea.  
-I'm mainly interested in web development and my goal is to become a full-stack developer.  
+I'm an university student studying web development in South Korea.  
+My main programming language is JavaScript/TypeScript.  
 
 - 🌱 I’m currently learning React.js & Nest.js.
-- 🤔 I prefer backend to frontend.
-- 😐 I have zero interest in designing. 
-- 🛒 I'm also thinking about learning GO and/or ASP.NET someday.
+- 🤔 I'm planning to learn more about websockets.
+- 🛒 I'm also thinking about learning Go someday.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true&hide=prs)
 
 <!--
 **bugoverdose/bugoverdose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 😐 I have zero interest in designing.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
