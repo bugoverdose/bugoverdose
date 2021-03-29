@@ -1,11 +1,12 @@
-### Hey there 🖐
+### Welcome to my github 🖐
 
 I'm an university student studying web development in South Korea.  
 My main programming language is JavaScript/TypeScript.  
 
-- 🌱 I’m currently learning React.js & Nest.js.
-- 🤔 I'm planning to learn more about websockets.
-- 🛒 I'm also thinking about learning Go someday.
+- 🔨 ReactJS / NestJS / GraphQL
+- 🌱 I’m currently learning Java.
+- 🛒 I'm also planning to learn more about websockets and Go someday.
+- 📫 How to reach me: jwjeong96@wafflestudio.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true&hide=prs)
 
