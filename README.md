@@ -4,9 +4,8 @@ I'm an university student studying web development in South Korea.
 My main programming language is JavaScript/TypeScript.  
 
 - 🔨 ReactJS / NestJS / GraphQL
-- 🌱 I’m currently learning Java.
-- 🛒 I'm also planning to learn more about websockets and Go someday.
-- 📫 How to reach me: jwjeong96@wafflestudio.com
+- 🛒 I'm planning to learn more about websockets and Go someday.
+- 📫 How to reach me: jwjeong96@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true&hide=prs)
 
@@ -14,6 +13,8 @@ My main programming language is JavaScript/TypeScript.
 **bugoverdose/bugoverdose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🌱 I’m currently learning k8s.
 
 - 😐 I have zero interest in designing.
 - 🔭 I’m currently working on ...
