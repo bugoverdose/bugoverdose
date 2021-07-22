@@ -1,7 +1,7 @@
 ### Welcome to my github 🖐
 
-I'm an university student studying web development in South Korea. 
-My main programming language is TypeScript and Kotlin. 
+I'm an university student studying web development in South Korea.  
+My main programming language is TypeScript and Kotlin.  
 
 - 🔨 ReactJS / NestJS / Spring
 - 🔭 I’m currently working on building a backend server with Spring in Kotlin.
