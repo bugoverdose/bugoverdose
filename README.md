@@ -1,11 +1,6 @@
 ### Welcome to my github 🖐
 
-- ✏ I'm an university student studying software development in South Korea.  
-- 🤔 I'm trying to learn at least one new skill/knowledge everyday.  
-- 🎭 I've been conducting psychology experiments with websites and programs that I've built alone.  
-- 👨‍💻 Nowadays I enjoy working with other developers.  
-- 🔨 I’m currently working with my team to publish a mobile app for actual use.  
-- 🛒 I'm planning to learn more about websockets and Go someday.  
+- [Maze Runner](https://gifted-tereshkova-28d1b9.netlify.app/): BFS 알고리즘을 통해 임의로 생성되는 미로에서 탈출하는 게임 사이트 
 
 #### Main Tech Stack
 <code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742562-656f79de-0579-4bff-9061-b5420e22006d.png"></code>
