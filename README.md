@@ -1,8 +1,14 @@
-### Welcome to my github 🖐
+## Hello and Welcome
+
+### Blog
+
+- [bugoverdose.github.io](https://bugoverdose.github.io/)
+
+### Toy Project
 
 - [Maze Runner](https://gifted-tereshkova-28d1b9.netlify.app/): game website where you escape from a maze that is randomly generated with a BFS algorithm.
 
-#### Main Tech Stack
+### Main Tech Stack
 
 <code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742895-a8713a78-5fde-4757-93e1-66df698dad7b.png"></code>
 <code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742927-774f250f-dfcd-4238-8182-9131e9877e85.png"></code>
