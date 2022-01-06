@@ -10,13 +10,13 @@
 
 ### Main Tech Stack
 
-<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742895-a8713a78-5fde-4757-93e1-66df698dad7b.png"></code>
-<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742927-774f250f-dfcd-4238-8182-9131e9877e85.png"></code>
-<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126743735-679ee238-bcfa-4206-a9f2-bbeda5f7ca21.PNG"></code>
-<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742925-9b58a188-8e15-4bc0-a7fc-7661845676e0.png"></code>
-<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742562-656f79de-0579-4bff-9061-b5420e22006d.png"></code>
+<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/148386686-2004c9fe-97bf-49ee-87dc-1c48cdedb6e6.png"></code>
+<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/148387549-ed2e0e88-8caa-4bc7-95f5-158fc264a2f6.png"></code>
+<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/148385908-9be1084b-0133-4201-9548-67685f866b1f.png"></code>
+<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/148387588-322ec2d0-a172-40cb-a2ca-705a18a69901.png"></code>
+<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/148387078-0cc566e8-9699-431a-a256-78760b1f6f2c.PNG"></code>
+<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/148386752-94b8c85b-8bee-4e26-b72c-dc2572f61166.png"></code>
 <code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742588-1ec2694a-d146-4a78-84d6-28b7d572ddb0.png"></code>
-<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126742894-290c1e63-66b1-4f17-b006-6e76cb20fccf.png"></code>
-<code><img height="25" width="25" src="https://user-images.githubusercontent.com/73531614/126747896-e7ad619e-ac94-4d09-97a7-94b492ecb2e6.png"></code>
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true)
