@@ -7,13 +7,13 @@ I build things.
 - [bugoverdose.github.io](https://bugoverdose.github.io/)
 
 ### Maze Runner 
-  - escape from a maze that is randomly generated with a BFS algorithm
+  - Escape from a maze that is randomly generated with a BFS algorithm.
   - [Click to play (Web)](https://bugoverdose.github.io/maze-runner/)
 
 ### Mini Chrome 
-  - a simple multi-process desktop application
-  - light-weight web browser featuring multiple tabs, multiple windows, save favorites in your local machine, etc
-  - [Download site (Mac & Windows)](https://bugoverdose.github.io/download-mini-chrome/)
+  - A simple multi-process desktop application.
+  - Light-weight web browser (feat. multiple tabs, multiple windows, saving favorite urls, etc)
+  - [Download site (Mac)](https://bugoverdose.github.io/mini-chrome/)
 
 ---
 
