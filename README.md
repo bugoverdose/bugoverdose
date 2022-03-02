@@ -1,10 +1,6 @@
-## Hello and Welcome
+## Hello and welcome
 
-I build things.
-
-### Blog
-
-- [bugoverdose.github.io](https://bugoverdose.github.io/)
+[![Dev Blog Badge](http://img.shields.io/badge/-Dev%20blog-000000?style=flat-square&logo=github)](https://bugoverdose.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwoo-jeong-ab284420b/)
 
 ### Maze Runner 
   - Escape from a maze that is randomly generated with a BFS algorithm.
