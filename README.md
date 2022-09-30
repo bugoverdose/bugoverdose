@@ -1,7 +1,7 @@
 ## 정진우입니다
 
+[![Resume Badge](https://img.shields.io/badge/-Portfolio-blueviolet)](***REMOVED***)
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20blog-000000?style=flat-square&logo=github)](https://bugoverdose.github.io/) 
-[![Resume Badge](https://img.shields.io/badge/-Resume-blueviolet)](***REMOVED***)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwoo-jeong-ab284420b/)
 
 ### Presentation
