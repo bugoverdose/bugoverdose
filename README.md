@@ -24,4 +24,4 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true)
+![Github stats](https://github-readme-stats-2au6xwid3-bugoverdose.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true)
