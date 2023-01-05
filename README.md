@@ -3,10 +3,6 @@
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20blog-000000?style=flat-square&logo=github)](https://bugoverdose.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwoo-jeong-ab284420b/)
 
-### 우아한테크코스
-
-- [미션 링크 목록](https://expensive-mandible-e00.notion.site/1ffe3f7afe7b4e91aa8ddd039ee771f7)
-
 ### Presentation
 
 - [[10분 테코톡] 정의 REST API](https://www.youtube.com/watch?v=Nxi8Ur89Akw)
