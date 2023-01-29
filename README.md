@@ -1,22 +1,37 @@
-## 정진우입니다
+## Jeong Jinwoo
 
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20blog-000000?style=flat-square&logo=github)](https://bugoverdose.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwoo-jeong-ab284420b/)
 
 ### Presentation
 
-- [[10분 테코톡] 정의 REST API](https://www.youtube.com/watch?v=Nxi8Ur89Akw)
+[<img width="20" src="https://user-images.githubusercontent.com/73531614/215307064-8e720e9b-393e-4680-8496-40f99544c33a.png"> [10분 테코톡] 정의 REST API](https://www.youtube.com/watch?v=Nxi8Ur89Akw)
 
-### Featured Articles
+### Toy Projects
 
-- [무중단 DB 마이그레이션과 호환성 문제 해결](https://bugoverdose.github.io/development/zero-downtime-deployment-and-compatibility/)
-- [Spring Profile: yml 파일 하나로 프로퍼티 관리하기](https://bugoverdose.github.io/development/spring-profile-and-environment-variables-tutorial/)
-  - [우테코 기술블로그 버전](https://tecoble.techcourse.co.kr/post/2022-10-04-active_profiles/)
-- [클래스와 프로토타입에 담긴 철학](https://bugoverdose.github.io/computer-science/class-vs-prototype-philosophy/)
-- [[Java] 어댑터 패턴과 OCP](https://bugoverdose.github.io/development/adapter-pattern-and-ocp/)
-- [[Java] 데코레이터 패턴: 구현과 한계](https://bugoverdose.github.io/development/decorator-pattern-implementation-and-limitations/)
-- [[Java] 스트림: 지연 연산과 최적화](https://bugoverdose.github.io/development/stream-lazy-evaluation/)
-- [[Java] 람다: 람다 캡처링](https://bugoverdose.github.io/development/lambda-capturing-and-free-variable/)
+**YAIL**: Yet Another Interpreted Language
+- Simple programming language built with Go.
+- [Check the Doc & Download for Mac](https://github.com/bugoverdose/yail) 
+
+**Maze Runner**
+- Escape from a maze that is randomly generated with a DFS algorithm.
+- [Play on Web](https://bugoverdose.github.io/maze-runner/)
+
+**MyS3**
+- Image hosting server using local file system with optimization.
+- [Read & Download](https://github.com/bugoverdose/MyS3)
+
+**Blog**
+- Custom dev blog built with Gatsby (without any templates). 
+- [Check the Website](https://bugoverdose.github.io/) or [the source code](https://github.com/bugoverdose/blog)
+
+**Mini Chrome**
+- Light-weight web browser supporting multiple process.
+- [Download for Mac](https://bugoverdose.github.io/mini-chrome/)
+
+**grep-rs**
+- Simple command line application buit with Rust.
+- [Check the Doc & Download for Mac](https://github.com/bugoverdose/grep-rs)
 
 ---
 
