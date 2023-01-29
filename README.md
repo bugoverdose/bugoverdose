@@ -9,29 +9,23 @@
 
 ### Toy Projects
 
-**YAIL**: Yet Another Interpreted Language
-- Simple programming language built with Go.
-- [Check the Doc & Download for Mac](https://github.com/bugoverdose/yail) 
+- **YAIL**: Yet Another Interpreted Language is a simple programming language built with Go.
+  - [Check the Doc & Download for Mac](https://github.com/bugoverdose/yail) 
 
-**Maze Runner**
-- Escape from a maze that is randomly generated with a DFS algorithm.
-- [Play on Web](https://bugoverdose.github.io/maze-runner/)
+- **Maze Runner**: Escape from a maze that is randomly generated with a DFS algorithm.
+  - [Play on Web](https://bugoverdose.github.io/maze-runner/)
 
-**MyS3**
-- Image hosting server using local file system with optimization.
-- [Read & Download](https://github.com/bugoverdose/MyS3)
+- **MyS3**: Image hosting server using local file system with optimization.
+  - [Read & Download](https://github.com/bugoverdose/MyS3)
 
-**Blog**
-- Custom dev blog built with Gatsby (without any templates). 
-- [Check the Website](https://bugoverdose.github.io/) or [the source code](https://github.com/bugoverdose/blog)
+- **Blog**: Custom dev blog built with Gatsby (without any templates). 
+  - [Check the Website](https://bugoverdose.github.io/) or [the source code](https://github.com/bugoverdose/blog)
 
-**Mini Chrome**
-- Light-weight web browser supporting multiple process.
-- [Download for Mac](https://bugoverdose.github.io/mini-chrome/)
+- **Mini Chrome**: Light-weight web browser supporting multiple process.
+  - [Download for Mac](https://bugoverdose.github.io/mini-chrome/)
 
-**grep-rs**
-- Simple command line application buit with Rust.
-- [Check the Doc & Download for Mac](https://github.com/bugoverdose/grep-rs)
+- **grep-rs**: Simple command line application buit with Rust.
+  - [Check the Doc & Download for Mac](https://github.com/bugoverdose/grep-rs)
 
 ---
 
