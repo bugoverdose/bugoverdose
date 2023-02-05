@@ -15,10 +15,10 @@
 - **Maze Runner**: Escape from a maze that is randomly generated with a DFS algorithm.
   - [Play on Web](https://bugoverdose.github.io/maze-runner/)
 
-- **MyS3**: Image hosting server using local file system with optimization.
+- **MyS3**: Image hosting server using local file system supporting optimization.
   - [Read & Download](https://github.com/bugoverdose/MyS3)
 
-- **Blog**: Custom dev blog built with Gatsby (without any templates). 
+- **Blog**: Custom dev blog built with Gatsby supporting high SEO.
   - [Check the Website](https://bugoverdose.github.io/) or [the source code](https://github.com/bugoverdose/blog)
 
 - **Mini Chrome**: Light-weight web browser supporting multiple process.
