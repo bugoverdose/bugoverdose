@@ -1,8 +1,3 @@
-## Jeong Jinwoo
-
-[![Dev Blog Badge](http://img.shields.io/badge/-Dev%20blog-000000?style=flat-square&logo=github)](https://bugoverdose.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwoo-jeong-ab284420b/)
-
 ### Presentation
 
 [<img width="20" src="https://user-images.githubusercontent.com/73531614/215307064-8e720e9b-393e-4680-8496-40f99544c33a.png"> [10분 테코톡] 정의 REST API](https://www.youtube.com/watch?v=Nxi8Ur89Akw)
