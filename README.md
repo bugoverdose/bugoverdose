@@ -3,9 +3,11 @@
 
 ## Experiences
 
+- (2024~) Georgia Tech 석사
 - (2023~) 데브시스터즈 오븐게임즈 스튜디오 서버셀
 - (2023) [쿠버네티스 오픈소스 기여](https://contribcard.clotributor.dev/bugoverdose) 
 - (2022) 우아한테크코스 4기 백엔드 크루
+- (2016~2022) 서울대학교 학사
 
 ## Presentations
 
