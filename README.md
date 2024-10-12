@@ -31,7 +31,7 @@ Object Oriented Go: [PPT](./정진우_Object_Oriented_Go.pdf)
 
 **Blog**
 - Custom dev blog built with Gatsby (without any templates). 
-- [Check the Website](https://bugoverdose.github.io/) or [the source code](https://github.com/bugoverdose/blog)
+- [Check the Website](https://bugoverdose.github.io/)
 
 **Mini Chrome**
 - Light-weight web browser supporting multiple process.
