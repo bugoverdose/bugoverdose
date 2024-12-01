@@ -13,7 +13,7 @@
 
 [10분 테코톡] 정의 REST API: [유튜브 영상](https://www.youtube.com/watch?v=Nxi8Ur89Akw)
 
-Object Oriented Go: [PPT](./정진우_Object_Oriented_Go.pdf)
+[Golang Korea] Object Oriented Go: [PPT](./정진우_Object_Oriented_Go.pdf)
 
 ## Toy Projects
 
