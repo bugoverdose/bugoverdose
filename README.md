@@ -3,11 +3,11 @@
 
 ## Experiences
 
-- (2024~) Georgia Tech 석사
-- (2023~) 데브시스터즈 [쿠키런: 오븐브레이크] 그룹 서버셀
-- (2023) [쿠버네티스 오픈소스 기여](https://contribcard.clotributor.dev/bugoverdose) 
-- (2022) 우아한테크코스 4기 백엔드 크루
-- (2016~2022) 서울대학교 학사
+- (2024~) Georgia Tech Master's degree
+- (2023~2025) [CookieRun: Ovenbreak](https://game.devsisters.com/en/cookierun/) - Game Server & Devops Engineer
+- (2023) [Kubernetes Open Source contribution](https://contribcard.clotributor.dev/bugoverdose) 
+- (2022) Woowa Tech Course - Backend Crew
+- (2016~2022) Seoul National University Bachelor's degree
 
 ## Presentations
 
