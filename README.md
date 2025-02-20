@@ -11,7 +11,7 @@
 
 ## Presentations
 
-[10분 테코톡] 정의 REST API: [유튜브 영상](https://www.youtube.com/watch?v=Nxi8Ur89Akw)
+[10분 테코톡] 정의 REST API: [Youtube video](https://www.youtube.com/watch?v=Nxi8Ur89Akw)
 
 [Golang Korea] Object Oriented Go: [PPT](./정진우_Object_Oriented_Go.pdf)
 
