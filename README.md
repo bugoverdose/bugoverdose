@@ -1,13 +1,16 @@
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20blog-000000?style=flat-square&logo=github)](https://bugoverdose.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwoo-jeong-ab284420b/)
 
+## Education
+
+- (2024.08~) Georgia Tech - Master's degree
+- (2016.03~2022.02) Seoul National University - Bachelor's degree
+
 ## Experiences
 
-- (2024~) Georgia Tech Master's degree
-- (2023~2025) [CookieRun: Ovenbreak](https://game.devsisters.com/en/cookierun/) - Game Server & Devops Engineer
-- (2023) [Kubernetes Open Source contribution](https://contribcard.clotributor.dev/bugoverdose) 
-- (2022) Woowa Tech Course - Backend Crew
-- (2016~2022) Seoul National University Bachelor's degree
+- (2023.02~2025.02) [@devsisters](https://github.com/devsisters) - [CookieRun: Ovenbreak](https://game.devsisters.com/en/cookierun/) - Game Server & Devops Engineer 
+- (2023.05~2023.08) [@kubernetes](https://github.com/kubernetes) - [Open Source contribution](https://contribcard.clotributor.dev/bugoverdose) 
+- (2022.02~2022.11) [@woowacourse](https://github.com/woowacourse) - Woowa Tech Course - Backend Crew
 
 ## Presentations
 
