@@ -3,14 +3,15 @@
 
 ## Education
 
-- [2024.08~] Georgia Tech - Master's degree
+- [2024.08~Present] Georgia Tech - Master's degree
 - [2016.03~2022.02] Seoul National University - Bachelor's degree
 
 ## Experiences
 
-- [2023.02~2025.02] [@devsisters](https://github.com/devsisters) - [CookieRun: Ovenbreak](https://game.devsisters.com/en/cookierun/) - Game Server & Devops Engineer 
+- [2025.03~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant
+- [2023.02~2025.02] [@devsisters](https://github.com/devsisters) - [CookieRun](https://game.devsisters.com/en/cookierun/) Game Server & Devops Engineer 
 - [2023.05~2023.08] [@kubernetes](https://github.com/kubernetes) - [Open Source contribution](https://contribcard.clotributor.dev/bugoverdose) 
-- [2022.02~2022.11] [@woowacourse](https://github.com/woowacourse) - Woowa Tech Course - Backend Crew
+- [2022.02~2022.11] [@woowacourse](https://github.com/woowacourse) - Backend Crew
 
 ## Presentations
 
