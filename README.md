@@ -10,7 +10,7 @@
 
 - [2025.03~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant
 - [2023.02~2025.02] [@devsisters](https://github.com/devsisters) - [CookieRun](https://game.devsisters.com/en/cookierun/) Game Server & Devops Engineer 
-- [2023.05~2023.08] [@kubernetes](https://github.com/kubernetes) - [Open Source contribution](https://contribcard.clotributor.dev/bugoverdose) 
+- [2023.05~2023.08] [@kubernetes](https://github.com/kubernetes) - [Open Source contributor](https://contribcard.clotributor.dev/bugoverdose) 
 - [2022.02~2022.11] [@woowacourse](https://github.com/woowacourse) - Backend Crew
 
 ## Presentations
