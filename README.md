@@ -3,15 +3,17 @@
 
 ## Education
 
-- [2024.08~Present] Georgia Tech - Master's degree
-- [2016.03~2022.02] Seoul National University - Bachelor's degree
+[2024.08~Present] Georgia Tech - Master's degree
+
+[2016.03~2022.02] Seoul National University - Bachelor's degree
 
 ## Experiences
 
-- [2025.03~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant
-- [2023.02~2025.02] [@devsisters](https://github.com/devsisters) - [CookieRun](https://game.devsisters.com/en/cookierun/) Game Server & Devops Engineer 
-- [2023.05~2023.08] [@kubernetes](https://github.com/kubernetes) - [Open Source contributor](https://contribcard.clotributor.dev/bugoverdose) 
-- [2022.02~2022.11] [@woowacourse](https://github.com/woowacourse) - Backend Crew
+[2025.03~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant
+
+[2023.02~2025.02] [@devsisters](https://github.com/devsisters) - [CookieRun](https://game.devsisters.com/en/cookierun/) Game Server & Devops Engineer 
+
+[2022.02~2022.11] [@woowacourse](https://github.com/woowacourse) - Backend Crew
 
 ## Presentations
 
@@ -19,6 +21,13 @@
 
 [Golang Korea] Object Oriented Go: [PPT](./정진우_Object_Oriented_Go.pdf)
 
+## Open Source
+
+[@adopy](https://github.com/adopy) - Maintainer
+
+[@kubernetes](https://github.com/kubernetes) - Member ([contribution card](https://contribcard.clotributor.dev/bugoverdose))
+
+<!--
 ## Toy Projects
 
 **Maze Runner**
@@ -44,5 +53,5 @@
 **grep-rs**
 - Simple command line application buit with Rust.
 - [Check the Doc & Download for Mac](https://github.com/bugoverdose/grep-rs)
-
+-->
 ![Github stats](https://github-readme-stats-2au6xwid3-bugoverdose.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true)
