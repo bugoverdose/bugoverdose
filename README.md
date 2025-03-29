@@ -9,7 +9,7 @@
 
 ## Experiences
 
-[2025~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant
+[2025~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant at alma mater
 
 [2023~2025] [@devsisters](https://github.com/devsisters) - [CookieRun](https://game.devsisters.com/en/cookierun/) Game Server & Devops Engineer 
 
