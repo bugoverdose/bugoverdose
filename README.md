@@ -9,9 +9,10 @@
 
 ## Experiences
 
-[2025~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant at alma mater
+[2025~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant at Seoul National University
 
-[2023~2025] [@devsisters](https://github.com/devsisters) - [CookieRun](https://game.devsisters.com/en/cookierun/) Game Server & Devops Engineer 
+[2023~2025] Game Server & DevOps Engineer 
+<!-- [2023~2025] [@devsisters](https://github.com/devsisters) - [CookieRun](https://game.devsisters.com/en/cookierun/) Game Server & DevOps Engineer  -->
 
 [2022] [@woowacourse](https://github.com/woowacourse) - Backend Crew
 
