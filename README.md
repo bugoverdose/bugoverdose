@@ -56,3 +56,12 @@
 - [Check the Doc & Download for Mac](https://github.com/bugoverdose/grep-rs)
 -->
 ![Github stats](https://github-readme-stats-2au6xwid3-bugoverdose.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true)
+
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/728239453192881525/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
