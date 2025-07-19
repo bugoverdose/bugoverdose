@@ -3,22 +3,23 @@
 
 ## Education
 
-[2024~Present] Georgia Tech - Master's degree
+[2024~Present] Georgia Tech - M.S. in Computer Science
 
-[2016~2022] Seoul National University - Bachelor's degree
+[2016~2022] Seoul National University - B.A. in Psychology
 
 ## Experiences
 
-[2025~Present] [@CCS-Lab](https://github.com/CCS-Lab) - Research Assistant at Seoul National University
+[2025~Present] Researcher ([@CCS-Lab](https://github.com/CCS-Lab))
+<!-- Social Science Researcher, Researcher at Seoul National University -->
 
-[2023~2025] Game Server & DevOps Engineer 
+[2023~2025] Game Server & DevOps Engineer
 <!-- [2023~2025] [@devsisters](https://github.com/devsisters) - [CookieRun](https://game.devsisters.com/en/cookierun/) Game Server & DevOps Engineer  -->
 
-[2022] [@woowacourse](https://github.com/woowacourse) - Backend Crew
+[2022] Backend Crew ([@woowacourse](https://github.com/woowacourse))
 
 ## Presentations
 
-[10분 테코톡] 정의 REST API: [Youtube video](https://www.youtube.com/watch?v=Nxi8Ur89Akw)
+[10 min TechTalk] Jeong's REST API: [Youtube video](https://www.youtube.com/watch?v=Nxi8Ur89Akw) (Korean)
 
 [Golang Korea] Object Oriented Go: [PPT](./정진우_Object_Oriented_Go.pdf)
 
@@ -57,6 +58,7 @@
 -->
 ![Github stats](https://github-readme-stats-2au6xwid3-bugoverdose.vercel.app/api?username=bugoverdose&count_private=true&show_icons=true)
 
+<!--
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/728239453192881525/draw"
@@ -65,3 +67,4 @@
         alt="gitanimals"
       />
     </a>
+-->
